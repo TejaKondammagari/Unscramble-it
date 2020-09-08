@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adcd119a-6cd8-4c06-b7f7-868f17d1f47c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b5JUUIN2czWSMV8QWt0c7sf9H8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordGuessClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGuessClient" />
+      <module name="ClientWordGuessSpring2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordGuessClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adcd119a-6cd8-4c06-b7f7-868f17d1f47c" name="Default Changelist" comment="" />
+      <created>1587916036267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587916036267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1300" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588527355256">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state x="1300" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1338@0.23.2560.1338" timestamp="1588527355256" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom" timestamp="1588570598328">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="2508" height="370" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1588533181422" />
+    <state width="2084" height="295" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1588543200897" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1338@0.23.2560.1338" timestamp="1588568473569" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1340@0.23.2560.1340" timestamp="1588570311643" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1342@0.23.2560.1342" timestamp="1588570598328" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1343@0.23.2560.1343" timestamp="1588570596065" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1345@0.23.2560.1345" timestamp="1588562528018" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1588562919806" />
+    <state width="2084" height="182" key="GridCell.Tab.0.bottom/0.23.2560.1347@0.23.2560.1347" timestamp="1588562917404" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center" timestamp="1588570598327">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="2508" height="370" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1588533181420" />
+    <state width="2084" height="295" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1588543200886" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1338@0.23.2560.1338" timestamp="1588568473568" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1340@0.23.2560.1340" timestamp="1588570311642" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1342@0.23.2560.1342" timestamp="1588570598327" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1343@0.23.2560.1343" timestamp="1588570596062" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1345@0.23.2560.1345" timestamp="1588562528017" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1588562919805" />
+    <state width="2084" height="182" key="GridCell.Tab.0.center/0.23.2560.1347@0.23.2560.1347" timestamp="1588562917398" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left" timestamp="1588570598326">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="2508" height="370" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1588533181419" />
+    <state width="2084" height="295" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1588543200885" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1338@0.23.2560.1338" timestamp="1588568473568" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1340@0.23.2560.1340" timestamp="1588570311642" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1342@0.23.2560.1342" timestamp="1588570598326" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1343@0.23.2560.1343" timestamp="1588570596062" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1345@0.23.2560.1345" timestamp="1588562528016" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1588562919793" />
+    <state width="2084" height="182" key="GridCell.Tab.0.left/0.23.2560.1347@0.23.2560.1347" timestamp="1588562917397" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right" timestamp="1588570598327">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="2508" height="370" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588533181421" />
+    <state width="2084" height="295" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1588543200896" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1338@0.23.2560.1338" timestamp="1588568473569" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1340@0.23.2560.1340" timestamp="1588570311643" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1342@0.23.2560.1342" timestamp="1588570598327" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1343@0.23.2560.1343" timestamp="1588570596063" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1345@0.23.2560.1345" timestamp="1588562528017" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1588562919806" />
+    <state width="2084" height="182" key="GridCell.Tab.0.right/0.23.2560.1347@0.23.2560.1347" timestamp="1588562917400" />
+    <state x="636" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1588563415465">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state x="636" y="390" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1588553401135" />
+    <state x="636" y="390" key="com.intellij.ide.util.TipDialog/0.23.2560.1338@0.23.2560.1338" timestamp="1588563415465" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessClient.java</url>
+          <line>371</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessClient.java</url>
+          <line>432</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessClient.java</url>
+          <line>452</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessClient.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessClient.java</url>
+          <line>524</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

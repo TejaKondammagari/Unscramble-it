@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab2d449e-4b3e-4857-a37e-9cfb18b3636f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b3pJ2iKn8KnvZyXYSYCkraoBVQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WordGuessServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGuessServer" />
+      <module name="ServerWordGuessSpring2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordGuessServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab2d449e-4b3e-4857-a37e-9cfb18b3636f" name="Default Changelist" comment="" />
+      <created>1587870555287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587870555287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1155" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588488268536">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="1155" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1346@0.23.2560.1346" timestamp="1588488268536" />
+    <state x="678" y="317" key="#xdebugger.evaluate" timestamp="1588536545117">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="678" y="317" key="#xdebugger.evaluate/0.23.2560.1337@0.23.2560.1337" timestamp="1588536545117" />
+    <state x="678" y="317" key="#xdebugger.evaluate/0.23.2560.1338@0.23.2560.1338" timestamp="1588533411399" />
+    <state width="2194" height="214" key="GridCell.Tab.0.bottom" timestamp="1588570601883">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="1228" height="271" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587870611170" />
+    <state width="1843" height="214" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1588568465759" />
+    <state width="2194" height="214" key="GridCell.Tab.0.bottom/0.23.2560.1338@0.23.2560.1338" timestamp="1588570601883" />
+    <state width="1843" height="214" key="GridCell.Tab.0.bottom/0.23.2560.1340@0.23.2560.1340" timestamp="1588569291092" />
+    <state width="1843" height="418" key="GridCell.Tab.0.bottom/0.23.2560.1342@0.23.2560.1342" timestamp="1588568808158" />
+    <state width="1843" height="214" key="GridCell.Tab.0.bottom/0.23.2560.1343@0.23.2560.1343" timestamp="1588561905062" />
+    <state width="1506" height="275" key="GridCell.Tab.0.bottom/0.23.2560.1345@0.23.2560.1345" timestamp="1588486075114" />
+    <state width="1506" height="275" key="GridCell.Tab.0.bottom/0.23.2560.1346@0.23.2560.1346" timestamp="1588488281304" />
+    <state width="2194" height="214" key="GridCell.Tab.0.center" timestamp="1588570601882">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="1228" height="271" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587870611166" />
+    <state width="1843" height="214" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1588568465759" />
+    <state width="2194" height="214" key="GridCell.Tab.0.center/0.23.2560.1338@0.23.2560.1338" timestamp="1588570601882" />
+    <state width="1843" height="214" key="GridCell.Tab.0.center/0.23.2560.1340@0.23.2560.1340" timestamp="1588569291091" />
+    <state width="1843" height="418" key="GridCell.Tab.0.center/0.23.2560.1342@0.23.2560.1342" timestamp="1588568808157" />
+    <state width="1843" height="214" key="GridCell.Tab.0.center/0.23.2560.1343@0.23.2560.1343" timestamp="1588561905062" />
+    <state width="1506" height="275" key="GridCell.Tab.0.center/0.23.2560.1345@0.23.2560.1345" timestamp="1588486075114" />
+    <state width="1506" height="275" key="GridCell.Tab.0.center/0.23.2560.1346@0.23.2560.1346" timestamp="1588488281303" />
+    <state width="2194" height="214" key="GridCell.Tab.0.left" timestamp="1588570601881">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="1228" height="271" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587870611162" />
+    <state width="1843" height="214" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1588568465758" />
+    <state width="2194" height="214" key="GridCell.Tab.0.left/0.23.2560.1338@0.23.2560.1338" timestamp="1588570601881" />
+    <state width="1843" height="214" key="GridCell.Tab.0.left/0.23.2560.1340@0.23.2560.1340" timestamp="1588569291091" />
+    <state width="1843" height="418" key="GridCell.Tab.0.left/0.23.2560.1342@0.23.2560.1342" timestamp="1588568808157" />
+    <state width="1843" height="214" key="GridCell.Tab.0.left/0.23.2560.1343@0.23.2560.1343" timestamp="1588561905061" />
+    <state width="1506" height="275" key="GridCell.Tab.0.left/0.23.2560.1345@0.23.2560.1345" timestamp="1588486075113" />
+    <state width="1506" height="275" key="GridCell.Tab.0.left/0.23.2560.1346@0.23.2560.1346" timestamp="1588488281302" />
+    <state width="2194" height="214" key="GridCell.Tab.0.right" timestamp="1588570601882">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="1228" height="271" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587870611168" />
+    <state width="1843" height="214" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1588568465759" />
+    <state width="2194" height="214" key="GridCell.Tab.0.right/0.23.2560.1338@0.23.2560.1338" timestamp="1588570601882" />
+    <state width="1843" height="214" key="GridCell.Tab.0.right/0.23.2560.1340@0.23.2560.1340" timestamp="1588569291092" />
+    <state width="1843" height="418" key="GridCell.Tab.0.right/0.23.2560.1342@0.23.2560.1342" timestamp="1588568808157" />
+    <state width="1843" height="214" key="GridCell.Tab.0.right/0.23.2560.1343@0.23.2560.1343" timestamp="1588561905062" />
+    <state width="1506" height="275" key="GridCell.Tab.0.right/0.23.2560.1345@0.23.2560.1345" timestamp="1588486075114" />
+    <state width="1506" height="275" key="GridCell.Tab.0.right/0.23.2560.1346@0.23.2560.1346" timestamp="1588488281304" />
+    <state x="1434" y="359" key="SettingsEditor" timestamp="1587870698390">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1434" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1587870698390" />
+    <state x="1014" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1588481789976">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1014" y="370" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1588481789976" />
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-1" timestamp="1588531845302">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-1/0.23.2560.1337@0.23.2560.1337" timestamp="1588531845302" />
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-2" timestamp="1588531845303">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-2/0.23.2560.1337@0.23.2560.1337" timestamp="1588531845303" />
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-3" timestamp="1588531845305">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-3/0.23.2560.1337@0.23.2560.1337" timestamp="1588531845305" />
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-4" timestamp="1588531845306">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="254" y="148" width="1435" height="1046" key="dock-window-4/0.23.2560.1337@0.23.2560.1337" timestamp="1588531845306" />
+    <state x="1393" y="365" width="752" height="574" key="find.popup" timestamp="1588486027262">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1393" y="365" width="752" height="574" key="find.popup/0.23.2560.1345@0.23.2560.1345" timestamp="1588486027262" />
+    <state x="162" y="94" key="new project wizard" timestamp="1588452405920">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="162" y="94" key="new project wizard/0.23.2560.1337@0.23.2560.1337" timestamp="1588452405920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EvalGameInfo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GameInfo.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EvalGameInfo.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EvalGameInfo.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/EvalGameInfo.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>242</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>32</line>
+          <properties class="Server" method="startConnection">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/WordGuessServer.java</url>
+          <line>38</line>
+          <properties field="gamePane" class="WordGuessServer" />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
